@@ -49,7 +49,7 @@ function App() {
             <button type="submit">Absenden</button>
           </form>
         ) : (
-          <p>hier feedpack sendet</p>
+          <p>hier feedback Verschickt!</p>
         )}
       </div>
     </>
